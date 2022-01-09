@@ -21,7 +21,10 @@ sites:
     url: https://babidedo.pionyr.cz/
   - name: Pionýrské fórum
     url: https://forum.pionyr.cz/
+  - name: Lvicata.cz (not hosted by Pionýr) # Non-pionyr website, used as a baseline
+    url: https://www.lvicata.cz/
 
+skipTopicsUpdate: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
