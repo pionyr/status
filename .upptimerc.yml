@@ -25,6 +25,7 @@ sites:
     url: https://www.lvicata.cz/
 
 skipTopicsUpdate: true
+skipDeleteIssues: true
 workflowSchedule:
   responseTime: "0 */2 * * *"
 
