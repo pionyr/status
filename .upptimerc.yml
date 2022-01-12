@@ -27,7 +27,7 @@ sites:
 skipTopicsUpdate: true
 skipDeleteIssues: true
 workflowSchedule:
-  responseTime: "0 */2 * * *"
+  responseTime: "0 */1 * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
