@@ -10,9 +10,9 @@ sites:
   - name: Mozaika
     url: https://mozaika.pionyr.cz/
   - name: Praha.pionyr.cz
-    url: https://praha.pionyr.cz/status.html
-  - name: Praha.pionyr.cz (static status)
     url: https://praha.pionyr.cz/
+  - name: Praha.pionyr.cz (static status)
+    url: https://praha.pionyr.cz/status.html
   - name: Ledová města
     url: https://ledovamesta.pionyr.cz/
   - name: Ledová Praha
