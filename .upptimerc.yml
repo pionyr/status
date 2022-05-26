@@ -13,6 +13,8 @@ sites:
     url: https://praha.pionyr.cz/
   - name: Praha.pionyr.cz (static status)
     url: https://praha.pionyr.cz/status.html
+  - name: Praha.pionyr.cz (dynamic status)
+    url: https://praha.pionyr.cz/status.php
   - name: Ledová města
     url: https://ledovamesta.pionyr.cz/
   - name: Ledová Praha
