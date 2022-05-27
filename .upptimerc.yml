@@ -25,7 +25,9 @@ sites:
     url: https://babidedo.pionyr.cz/
   - name: Pionýrské fórum
     url: https://forum.pionyr.cz/
-  - name: Lvicata.cz (not hosted by Pionýr) # Non-pionyr website, used as a baseline
+  - name: Pionýrská kuchařka
+    url: https://kucharka.pionyr.cz/
+  - name: Lvicata.cz (not hosted by Pionýr) # Non-pionyr website, used as a benchmark
     url: https://www.lvicata.cz/
 
 skipTopicsUpdate: true
