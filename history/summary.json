@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pionyr.cz.ico",
     "slug": "pionyr-cz",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "92.78%",
-    "time": 3238,
-    "timeDay": 2597,
-    "timeWeek": 2246,
-    "timeMonth": 2080,
-    "timeYear": 3239,
+    "time": 3235,
+    "timeDay": 2083,
+    "timeWeek": 2277,
+    "timeMonth": 2077,
+    "timeYear": 3237,
     "dailyMinutesDown": {
       "2023-05-18": 5,
       "2023-05-04": 32,
@@ -53,8 +53,7 @@
       "2023-01-05": 171,
       "2022-12-08": 41,
       "2022-11-20": 69,
-      "2022-10-08": 82,
-      "2022-06-09": 27
+      "2022-10-08": 82
     }
   },
   {
@@ -69,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2670,
-    "timeDay": 2173,
-    "timeWeek": 1599,
-    "timeMonth": 1529,
-    "timeYear": 2675,
+    "timeDay": 2125,
+    "timeWeek": 1621,
+    "timeMonth": 1537,
+    "timeYear": 2674,
     "dailyMinutesDown": {
       "2023-05-04": 31,
       "2023-03-20": 24,
@@ -86,27 +85,26 @@
     "url": "https://mozaika.pionyr.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/mozaika.pionyr.cz.ico",
     "slug": "mozaika",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.83%",
     "time": 3428,
-    "timeDay": 2294,
-    "timeWeek": 2425,
-    "timeMonth": 2299,
-    "timeYear": 3430,
+    "timeDay": 2230,
+    "timeWeek": 2447,
+    "timeMonth": 2305,
+    "timeYear": 3429,
     "dailyMinutesDown": {
-      "2023-06-08": 2,
+      "2023-06-08": 12,
       "2023-05-16": 12,
       "2023-05-04": 31,
       "2023-03-20": 23,
       "2023-01-06": 499,
       "2023-01-05": 170,
       "2022-12-08": 41,
-      "2022-10-08": 81,
-      "2022-06-09": 48
+      "2022-10-08": 81
     }
   },
   {
@@ -115,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz",
     "status": "up",
-    "uptime": "92.02%",
+    "uptime": "92.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "88.77%",
-    "time": 2482,
-    "timeDay": 1583,
-    "timeWeek": 1316,
-    "timeMonth": 1237,
-    "timeYear": 2485,
+    "time": 2481,
+    "timeDay": 1434,
+    "timeWeek": 1320,
+    "timeMonth": 1235,
+    "timeYear": 2483,
     "dailyMinutesDown": {
       "2023-05-18": 5,
       "2023-05-04": 30,
@@ -176,8 +174,7 @@
       "2023-01-06": 463,
       "2023-01-05": 170,
       "2022-12-08": 40,
-      "2022-10-08": 80,
-      "2022-06-09": 99
+      "2022-10-08": 80
     }
   },
   {
@@ -186,14 +183,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz-static-status",
     "status": "up",
-    "uptime": "87.40%",
+    "uptime": "87.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.78%",
     "time": 126,
-    "timeDay": 115,
-    "timeWeek": 120,
+    "timeDay": 126,
+    "timeWeek": 122,
     "timeMonth": 123,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -247,8 +244,7 @@
       "2023-01-06": 463,
       "2023-01-05": 169,
       "2022-12-08": 40,
-      "2022-10-08": 80,
-      "2022-06-09": 69
+      "2022-10-08": 80
     }
   },
   {
@@ -257,14 +253,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz-dynamic-status",
     "status": "up",
-    "uptime": "89.14%",
+    "uptime": "89.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "88.79%",
     "time": 125,
-    "timeDay": 115,
-    "timeWeek": 121,
+    "timeDay": 127,
+    "timeWeek": 122,
     "timeMonth": 123,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -318,8 +314,7 @@
       "2023-01-25": 21,
       "2023-01-06": 463,
       "2023-01-05": 168,
-      "2022-12-08": 39,
-      "2022-06-09": 88
+      "2022-12-08": 39
     }
   },
   {
@@ -333,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
-    "time": 3690,
-    "timeDay": 2605,
-    "timeWeek": 2539,
-    "timeMonth": 2499,
-    "timeYear": 3693,
+    "time": 3689,
+    "timeDay": 2789,
+    "timeWeek": 2564,
+    "timeMonth": 2498,
+    "timeYear": 3692,
     "dailyMinutesDown": {
       "2023-05-18": 5,
       "2023-05-04": 29,
@@ -348,8 +343,7 @@
       "2023-01-25": 20,
       "2023-01-06": 463,
       "2023-01-05": 168,
-      "2022-12-08": 39,
-      "2022-06-09": 88
+      "2022-12-08": 39
     }
   },
   {
@@ -363,11 +357,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.53%",
-    "time": 4607,
-    "timeDay": 4412,
-    "timeWeek": 3548,
-    "timeMonth": 3390,
-    "timeYear": 4619,
+    "time": 4605,
+    "timeDay": 4346,
+    "timeWeek": 3578,
+    "timeMonth": 3383,
+    "timeYear": 4618,
     "dailyMinutesDown": {
       "2023-05-18": 5,
       "2023-05-05": 10,
@@ -383,8 +377,7 @@
       "2023-01-05": 167,
       "2022-12-14": 12,
       "2022-12-08": 38,
-      "2022-11-21": 13,
-      "2022-06-09": 70
+      "2022-11-21": 13
     }
   },
   {
@@ -393,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/detidetem.pionyr.cz.ico",
     "slug": "deti-detem",
     "status": "down",
-    "uptime": "92.48%",
+    "uptime": "92.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.42%",
-    "time": 3516,
-    "timeDay": 2289,
-    "timeWeek": 2189,
-    "timeMonth": 2142,
-    "timeYear": 3516,
+    "uptimeYear": "89.30%",
+    "time": 3514,
+    "timeDay": 2523,
+    "timeWeek": 2248,
+    "timeMonth": 2154,
+    "timeYear": 3515,
     "dailyMinutesDown": {
-      "2023-06-08": 886,
+      "2023-06-09": 85,
+      "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -452,8 +446,7 @@
       "2023-01-06": 464,
       "2023-01-05": 167,
       "2022-12-14": 12,
-      "2022-12-08": 38,
-      "2022-06-09": 70
+      "2022-12-08": 38
     }
   },
   {
@@ -467,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
-    "time": 2650,
-    "timeDay": 2038,
-    "timeWeek": 1619,
-    "timeMonth": 1504,
-    "timeYear": 2656,
+    "time": 2649,
+    "timeDay": 1783,
+    "timeWeek": 1604,
+    "timeMonth": 1505,
+    "timeYear": 2654,
     "dailyMinutesDown": {
       "2023-05-18": 13,
       "2023-05-04": 27,
@@ -481,8 +474,7 @@
       "2023-01-25": 17,
       "2023-01-06": 464,
       "2023-01-05": 166,
-      "2022-12-08": 38,
-      "2022-06-09": 86
+      "2022-12-08": 38
     }
   },
   {
@@ -496,11 +488,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 2309,
-    "timeDay": 1379,
-    "timeWeek": 1094,
-    "timeMonth": 1014,
-    "timeYear": 2312,
+    "time": 2308,
+    "timeDay": 1573,
+    "timeWeek": 1122,
+    "timeMonth": 1018,
+    "timeYear": 2311,
     "dailyMinutesDown": {
       "2023-05-04": 27,
       "2023-04-29": 50,
@@ -511,8 +503,7 @@
       "2023-01-25": 11,
       "2023-01-06": 464,
       "2023-01-05": 166,
-      "2022-12-08": 37,
-      "2022-06-09": 86
+      "2022-12-08": 37
     }
   },
   {
@@ -526,11 +517,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 3374,
-    "timeDay": 2471,
-    "timeWeek": 2125,
-    "timeMonth": 2061,
-    "timeYear": 3376,
+    "time": 3373,
+    "timeDay": 2215,
+    "timeWeek": 2180,
+    "timeMonth": 2067,
+    "timeYear": 3375,
     "dailyMinutesDown": {
       "2023-05-04": 27,
       "2023-04-29": 50,
@@ -541,8 +532,7 @@
       "2023-01-06": 464,
       "2023-01-05": 165,
       "2022-12-08": 37,
-      "2022-08-25": 11,
-      "2022-06-09": 44
+      "2022-08-25": 11
     }
   },
   {
@@ -557,9 +547,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 947,
-    "timeDay": 1361,
-    "timeWeek": 1151,
-    "timeMonth": 1038,
+    "timeDay": 938,
+    "timeWeek": 1158,
+    "timeMonth": 1039,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2023-05-02": 13,
