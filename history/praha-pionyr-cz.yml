@@ -1,7 +1,7 @@
 url: https://praha.pionyr.cz/
-status: up
-code: 200
-responseTime: 1143
-lastUpdated: 2023-12-21T13:51:16.069Z
+status: down
+code: 500
+responseTime: 5275
+lastUpdated: 2023-12-21T14:08:50.568Z
 startTime: 2022-01-09T19:33:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
