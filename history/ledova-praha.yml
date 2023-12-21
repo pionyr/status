@@ -1,7 +1,7 @@
 url: https://ledovapraha.cz/
-status: up
-code: 200
-responseTime: 1915
-lastUpdated: 2023-12-21T13:11:55.319Z
+status: down
+code: 503
+responseTime: 1264
+lastUpdated: 2023-12-21T13:27:27.549Z
 startTime: 2022-01-09T20:09:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
