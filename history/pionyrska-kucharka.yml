@@ -1,7 +1,7 @@
 url: https://kucharka.pionyr.cz/
-status: up
-code: 200
-responseTime: 1866
-lastUpdated: 2023-12-21T13:51:54.744Z
+status: down
+code: 500
+responseTime: 511
+lastUpdated: 2023-12-21T14:09:04.599Z
 startTime: 2022-05-27T16:05:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
