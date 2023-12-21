@@ -1,7 +1,7 @@
 url: https://ledovamesta.pionyr.cz/
-status: down
-code: 503
-responseTime: 617
-lastUpdated: 2023-12-21T13:27:22.162Z
+status: up
+code: 200
+responseTime: 3589
+lastUpdated: 2023-12-21T13:51:26.115Z
 startTime: 2022-01-09T19:33:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
