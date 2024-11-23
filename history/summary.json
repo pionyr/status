@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pionyr.cz.ico",
     "slug": "pionyr-cz",
     "status": "down",
-    "uptime": "68.51%",
+    "uptime": "68.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.03%",
+    "uptimeYear": "16.76%",
     "time": 1904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1911,
+    "timeYear": 1913,
     "dailyMinutesDown": {
-      "2024-11-22": 79,
+      "2024-11-23": 75,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -326,8 +327,7 @@
       "2023-12-21": 42,
       "2023-12-20": 319,
       "2023-12-19": 10,
-      "2023-12-05": 17,
-      "2023-11-24": 24
+      "2023-12-05": 17
     }
   },
   {
@@ -345,12 +345,11 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1479,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2024-03-06": 37,
       "2024-02-25": 11,
-      "2024-02-11": 31,
-      "2023-11-24": 37
+      "2024-02-11": 31
     }
   },
   {
@@ -368,7 +367,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2411,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2024-03-08": 16,
       "2024-03-06": 37,
@@ -392,8 +391,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 828
+      "2023-11-25": 1440
     }
   },
   {
@@ -402,18 +400,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz",
     "status": "down",
-    "uptime": "67.16%",
+    "uptime": "67.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.03%",
+    "uptimeYear": "16.76%",
     "time": 1179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1177,
+    "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-11-22": 79,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -722,8 +721,7 @@
       "2023-12-21": 42,
       "2023-12-20": 319,
       "2023-12-19": 9,
-      "2023-12-05": 17,
-      "2023-11-24": 36
+      "2023-12-05": 17
     }
   },
   {
@@ -732,18 +730,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz-static-status",
     "status": "down",
-    "uptime": "62.04%",
+    "uptime": "61.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.11%",
+    "uptimeYear": "16.83%",
     "time": 130,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 131,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-11-22": 80,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1048,8 +1047,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 820,
-      "2023-11-24": 36
+      "2024-01-12": 820
     }
   },
   {
@@ -1058,18 +1056,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.pionyr.cz.ico",
     "slug": "praha-pionyr-cz-dynamic-status",
     "status": "down",
-    "uptime": "62.22%",
+    "uptime": "62.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.10%",
+    "uptimeYear": "16.83%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-11-22": 80,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1375,8 +1374,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 820,
-      "2023-12-21": 24,
-      "2023-11-24": 24
+      "2023-12-21": 24
     }
   },
   {
@@ -1385,18 +1383,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ledovamesta.pionyr.cz.ico",
     "slug": "ledova-mesta",
     "status": "down",
-    "uptime": "71.01%",
+    "uptime": "70.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.03%",
+    "uptimeYear": "16.76%",
     "time": 2151,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2187,
+    "timeYear": 2194,
     "dailyMinutesDown": {
-      "2024-11-22": 80,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1706,8 +1705,7 @@
       "2023-12-21": 42,
       "2023-12-20": 319,
       "2023-12-19": 9,
-      "2023-12-05": 17,
-      "2023-11-24": 11
+      "2023-12-05": 17
     }
   },
   {
@@ -1716,18 +1714,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ledovapraha.cz.ico",
     "slug": "ledova-praha",
     "status": "down",
-    "uptime": "70.84%",
+    "uptime": "70.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.04%",
+    "uptimeYear": "16.76%",
     "time": 2178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2211,
+    "timeYear": 2215,
     "dailyMinutesDown": {
-      "2024-11-22": 80,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -2036,8 +2035,7 @@
       "2023-12-21": 42,
       "2023-12-20": 319,
       "2023-12-19": 9,
-      "2023-12-05": 17,
-      "2023-11-24": 23
+      "2023-12-05": 17
     }
   },
   {
@@ -2046,18 +2044,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/detidetem.pionyr.cz.ico",
     "slug": "deti-detem",
     "status": "down",
-    "uptime": "57.81%",
+    "uptime": "57.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.96%",
+    "uptimeYear": "8.68%",
     "time": 3520,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3647,
+    "timeYear": 3678,
     "dailyMinutesDown": {
-      "2024-11-22": 80,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -2393,8 +2392,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 386,
-      "2023-11-24": 10
+      "2023-12-03": 386
     }
   },
   {
@@ -2403,18 +2401,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/babidedo.pionyr.cz.ico",
     "slug": "babi-dedo",
     "status": "down",
-    "uptime": "71.05%",
+    "uptime": "70.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.12%",
+    "uptimeYear": "16.84%",
     "time": 1377,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1384,
+    "timeYear": 1380,
     "dailyMinutesDown": {
-      "2024-11-22": 81,
+      "2024-11-23": 76,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -2719,8 +2718,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 819,
-      "2023-11-24": 9
+      "2024-01-12": 819
     }
   },
   {
@@ -2729,18 +2727,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kucharka.pionyr.cz.ico",
     "slug": "pionyrska-kucharka",
     "status": "down",
-    "uptime": "66.63%",
+    "uptime": "66.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.05%",
+    "uptimeYear": "16.77%",
     "time": 1721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1709,
+    "timeYear": 1707,
     "dailyMinutesDown": {
-      "2024-11-22": 81,
+      "2024-11-23": 77,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -3049,8 +3048,7 @@
       "2023-12-21": 42,
       "2023-12-20": 320,
       "2023-12-19": 9,
-      "2023-12-05": 17,
-      "2023-11-24": 9
+      "2023-12-05": 17
     }
   }
 ]
